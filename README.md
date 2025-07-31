@@ -1,2 +1,6 @@
-# Machine-learning-log
-A collection of my machine learning projects — from beginner to advanced — covering various algorithms, datasets, and real-world applications. Built using Python and popular ML libraries. 
+<!-- Title & Description -->
+<div align="center">
+  <h1>🚀 My Machine Learning Project Journey</h1>
+  <p><em>A growing collection of my ML projects, updated regularly as I learn and build — from basic to advanced.</em></p>
+</div>
+
